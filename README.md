@@ -3,16 +3,10 @@
  <h2 align="center">Welcome to my Profile</h2>
 </p>
 
-### Hello World 👋 I am [Tomás Costa](https://github.com/TomasCostaK)
+### Hello World 👋 I am [Suhrid Talukder](https://github.com/Suhrid-Talukder333)
 
-<a href="https://www.linkedin.com/in/tomascostax/">
-  <img align="left" alt="TomasCostaK LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://youtube.com">
-  <img align="left" alt="TomasCostaK Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<a href="https://medium.com">
-  <img align="left" alt="TomasCostaK Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
+<a href="https://www.linkedin.com/in/suhrid-talukder-580a891a5/">
+  <img align="left" alt="SuhridTalukder LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <div>
@@ -20,8 +14,8 @@
 <br />
 <p>
 
-- 🔭 I’m currently working on **a colorful way of listing my projects using VueJS**
-- 🌱 I’m currently learning **VueJs, Django, ExpressJS, DiscordJS**
+- 🔭 I’m currently working on **building projects using ReactJs**
+- 🌱 I’m currently learning **ReactJs, c++, ExpressJS, NodeJs**
 - 👯 If you have any projects you would like to colaborate, reach out to me.
 - 💬 Ask me about **anything**
 - ⚡ Fun fact: Currently using **Machine Learning** to predict if I will pursue Machine Learning.
@@ -33,12 +27,12 @@
 
 <div><p>My overview: </p></div>
 
-![TomasCostaK's github stats](https://github-readme-stats.vercel.app/api?username=TomasCostaK&show_icons=true)
+![Suhrid Talukder's github stats](https://github-readme-stats.vercel.app/api?username=Suhrid-Talukder333&show_icons=true)
 <br />
 
 <!-- Optional Visitors badge: -->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=TomasCostaK.TomasCostaK)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Suhrid-Talukder333.Suhrid-Talukder333)
 
-⭐️ From [TomasCostaK](https://github.com/TomasCostaK/TomasCostaK) 
+⭐️ From [Suhrid Talukder](https://github.com/Suhrid-Talukder333/Suhrid-Talukder333) 
 
 <br />
