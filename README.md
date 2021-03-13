@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **ReactJs, c++, ExpressJS, NodeJs**
 - 👯 If you have any projects you would like to colaborate, reach out to me.
 - 💬 Ask me about **anything**
-- 💬 I have learned **ReactJs, C++, C#, Unity, Python, C, Javascript**
+- 💬 I have put time in learning **ReactJs, C++, C#, Unity, Python, C, Javascript**
 - ⚡ Fun fact: Currently using **Machine Learning** to predict if I will pursue Machine Learning.
 
 </h4>
