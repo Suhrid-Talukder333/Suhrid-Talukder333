@@ -19,6 +19,7 @@
 - 👯 If you have any projects you would like to colaborate, reach out to me.
 - 💬 Ask me about **anything**
 - 💬 I have put time in learning **ReactJs, C++, C#, Unity, Python, C, Javascript**
+- :writing_hand: I am also interested in **Competetive Programming**
 - ⚡ Fun fact: Currently using **Machine Learning** to predict if I will pursue Machine Learning.
 
 </h4>
