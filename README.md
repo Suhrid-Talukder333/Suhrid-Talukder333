@@ -6,7 +6,7 @@
 ### Hello World 👋 I am [Suhrid Talukder](https://github.com/Suhrid-Talukder333)
 
 <a href="https://www.linkedin.com/in/suhrid-talukder-580a891a5/">
-  <img align="left" alt="SuhridTalukder LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="SuhridTalukder LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
 </a>
 
 <div>
