@@ -30,9 +30,6 @@ I am a self-learning enthusiast. I try to learn new things every now and then. I
 ![Suhrid Talukder's github stats](https://github-readme-stats.vercel.app/api?username=Suhrid-Talukder333&show_icons=true)
 <br />
 
-<!-- Optional Visitors badge: -->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Suhrid-Talukder333.Suhrid-Talukder333)
-
 ⭐️ From [Suhrid Talukder](https://github.com/Suhrid-Talukder333/Suhrid-Talukder333) 
 
 <br />
